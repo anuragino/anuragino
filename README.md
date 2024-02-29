@@ -8,7 +8,7 @@
 </p> 
 
 <div align="center">
-   <h3> 👩‍💻 BTech. Information Technology | 💻 Full Stack Developer | 🛸 India  </h3>
+   <h3> 👩‍💻 BTech. Information Technology | 💻 Software Developer | 🛸 India  </h3>
 </div>
 
 
