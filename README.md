@@ -15,10 +15,10 @@
 <div>
 -->
 
-- Hello folks, I'm MERN stack Developer🚀.
+- Hello folks, I'm a full-stack Developer🚀.
 - Engrossed in Coding ⚡, Web Designing, and Development.
 - I'm currently Sharpening My Skills and working on some exciting projects.
-- I'm fluent in Data Structures and Algorithms.
+- I'm fluent in Data Structures and Algorithms. I have solved more than 1500+ question across platform with leetCode rating 1670+
 - Interested in working with 💡 individuals who have genuine passion for various developer tools. 
 - Eager to collaborate on meaningful projects that create a real difference .
 - Reach me at 📫 anuragino20@gmail.com 
